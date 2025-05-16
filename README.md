@@ -1,6 +1,3 @@
-Here's a professional `README.md` for your project:
-
-```markdown
 # Web Template Downloader
 
 A Python CLI tool to download complete website templates (HTML, CSS, JS, images, fonts) while maintaining the original directory structure.
