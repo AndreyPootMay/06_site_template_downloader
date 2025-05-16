@@ -53,7 +53,7 @@ python downloader.py folder_name website.com/index.html
 This will create:
 ```
 templates/
-└── traveltrek/
+└── folder_name/
     ├── index.html
     ├── assets/
     │   ├── css/
